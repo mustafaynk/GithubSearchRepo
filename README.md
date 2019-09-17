@@ -1,5 +1,5 @@
 # GMSearchRepo
-This application developed for search GitHub repositorys.
+This application developed for searching GitHub repositorys.
 
 ### Features
 ---
